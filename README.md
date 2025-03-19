@@ -1,5 +1,5 @@
 # AppliedML
-Wine Quality Project done in DSCI 631 Applied Machine Learning at Drexel University. Project completed on 6/7/2024.
+Wine Quality Project done in DSCI 631 Applied Machine Learning for Data Science at Drexel University. Project completed on 6/7/2024.
 
 This is an ipynb file that pulls two datasets from Kaggle (https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009) corresponding to red and white variants of the Portuguese "Vinho Verde" wine.   
 
